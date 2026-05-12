@@ -16,7 +16,7 @@
 //������PORT
 #define MY_PORT				80
 //��������˽Կ
-#define MY_KEY				"SCtD7n8rvEfEGPNW-"
+#define MY_KEY				"your_api_key"
 //��ַ
 #define location			"zhengzhou"
 
